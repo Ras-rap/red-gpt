@@ -1,4 +1,4 @@
-from .gpt import gpt
+from .gpt.py import gpt
 
 
 def setup(bot):
