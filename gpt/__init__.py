@@ -1,5 +1,5 @@
-from .mycog import MyCog
+from .gpt import gpt
 
 
 def setup(bot):
-    bot.add_cog(MyCog(bot))
+    bot.add_cog(gpt(bot))

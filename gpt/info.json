@@ -1,8 +1,0 @@
-{
-    "author" : ["Ras_rap"],
-    "install_msg" : "If you installed this and arent me why",
-    "name" : "Red gpt",
-    "short" : "Ai chat in red",
-    "description" : "A chat gpt type ai that is running on a vm that is sshed into",
-    "tags" : ["List of search tags on red portal for your repo."]
-}
